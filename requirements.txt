@@ -1,0 +1,17 @@
+django
+djangorestframework
+drf-yasg
+django-filter
+mysqlclient
+pillow
+python-decouple
+pyjwt
+bcrypt
+django-redis
+djangorestframework-simplejwt
+whitenoise
+gunicorn
+psycopg2
+django-cors-headers
+requests
+firebase_admin
